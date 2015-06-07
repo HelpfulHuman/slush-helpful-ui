@@ -1,7 +1,7 @@
 {
     "name": "slush-helpful-ui",
     "description": "Opinionated front-end structure with some pre-built Stylus components.",
-    "version": "0.1.0-alpha",
+    "version": "0.1.1-alpha",
     "homepage": "https://github.com/nickglenn/slush-helpful-ui",
     "author": {
         "name": "Nick Glenn",
