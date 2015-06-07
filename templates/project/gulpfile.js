@@ -47,7 +47,7 @@ gulp.task('bower:scripts', function () {
  * Compile Stylus files, apply vendor prefixes and minify stylesheets.
  */
 gulp.task('styles', ['clean:styles'], function () {
-  return gulp.src(src + '/*.styl')
+  return gulp.src(src + '/styles/*.styl')
     .pipe(plumber())
     .pipe(stylus())
     .pipe(autoprefix())
