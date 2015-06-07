@@ -1,0 +1,9 @@
+{
+  "name": "<%= appNameSlug %>",
+  "description": "<%= appDescription %>",
+  "version": "<%= appVersion %>",
+  "private": "<%= appPrivate %>",
+  "dependencies": {
+    "helpful-ui": "~0.0.*"
+  }
+}
